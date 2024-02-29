@@ -1,0 +1,70 @@
+ FUsOGaCt1wLMiSgqtImt8b5v9HJZ8GMkVKzzuiVRagDW66UwOgE3PCdd9ge7kZkXdRyqhbUIhZ7kIGWIP/+EyoBtTlre7Btend6WgFg5O6ELYs1jmxqPxM1Jixsw+KMC0m/KfUq/zmwSTtOP78wtR90RJx+cVE7ck6Dyomd8VCxoBFj1vX76iyoTW6dqhROFvO7tMX+kwX0c9l4ovE23BUkTCCDBDAImucPMwRWaOG/udxOfptx9duCCnsvWZ1HQj8wHBNB/ExGH3Io2AYJym7pytYul2PwRtnpSUHBib0Uu16uyfF2O7Z3rKH12t0uvRwOsBYBRjknnyIqYg9tsa9feDiUA7DVWSXojH13A8UtziWzaZzYJfD7oBeSAHk+qAbzT9DdQdnKj4VWu4jq57zZnbhDmXZghVtP0VN32xVRLi4vFiaausLh5LGQOLJH0HB1v4bvOlwojxM+AtkAyWyDNV31kT/DBCf1yS1G7oLNAA6skN7ZcFaA3yhU+im7taVkrCmtLmkgbX/yKNXhyUcgg98oUpsOOyJwWL6SZ2rqppDT0gBq/R12eTaDCjOQQ/D57//206zSpy49KQkyqED70DlrVKSukkOQT+b1IoOK7PPc4oGqVRBm3b0gCzB/AsYWVUqG97/JX1bWWbH5QhmN9WozLvhKwYJY523KDk2U=
+
+
+iciciCallBackBody k53au2SJluLxqir0OvTVaE3VCWqJ9eFewZpOPnvNPgs4LM+xM55wvIz1lLrT/ms+235rFVVkn9ZDApUnvpuwsiLun22XCtQa156ZmUzsvWxPtoD1YKsxOCrAZUa41Mgm13yk04tgstloilwuhVlyGUDYbhIf7iri46lwPAFrJw6rh7qpYmTy4tMSifIgaQI5RG2G7QxvBB6H7WMAQuB5w/njFg+Z2moV9oF/O9YyiGSAGjTpou79fBazerwQk9bJgEsUylnNWnJahaQGbxOl59/0GC0P9DMc9qCRuXpmpAGOF+83PwuM9mT4t+mU5aAS+oQR8u6hKcJ6bo8E5WDWpJLd8Sr+E+Gw5I+HvLUwn7zMymQQbgwpEh55XnQvUFKyhTpUN4ILrbBfVrOJnuJ57SP1OZtZzBWwT93YF0CVHf1vrHwN5UOtdSF8LFXTWf/nagKLSxLhZzaLodueJ2WyMeVTYF5sKgFwYvWjo7SrUMN9DFeGN9o/P8kDtdPWoEDYD
+
+
+
+
+
+Ys9DcnIEd+ROMZQjXfgs8EjEhFvIOKhVhGXOYYqbYuuRQ2sJxEvSKuM5noOebDPWwWkHMizyOGkpLkwtyRzabFv11Liu3GoVa0dPKmFTpppKasgHHz2fGYjimJDfwIjOuSGlFYDQuhRYpJjwhe0nQk682kfftN2MJOOGlLWcOqo62wmJZCsPnbfn42xMrnFdGDlBj72Jbj+yKEfFfgN+E+vdA3y1Y5N1WUM2Pu+vKbYPKMsnNoB1iCYYUreuFSrRPTIpOzAb/hB4BRyge8wAqySHz04fAW9lgdY98J37YRdGLijlYp8lXnOsKs4KKxbMENoEgtmKrjV2odmHcQk6hJEY5KqPLS6NdyAyfoOSjwmX4kb2PCqT/b6hdkr4crTkedn6FeNc9g5kozfGkKFCzrXqqzTDFMIkfNwhGxOc5j9JjSGB233Nf/gIha+zBHb4zbvXakmd54A0kdTuqULyAAuOkuU8vqW+fHAlu17UqkNDlOwb/FMcsEn3MWDcS9Dk6U/DS1IX/+KrSXzOxy4l24QtATx+YoPRBaqN8B9GLpsrsBYYiaPpdo4qn9uEu7KrMcKG1r3BGDnm6JEYB7TwA5EIPujCpMVOATGW4GOuTnTRM7uGEWvxw5O63N70QwFV9TU2duynAQq4P3LtbqN1gEBtIMS7tmnl+cY52oMYXq4=has context menu
+
+
+decryptIciciCallBackResponse {
+  SeqNo: 'ICIb2350595253e4481babd13f80af397e6',
+  subMerchantId: '415065',
+  PayerMobile: '7977352472',
+  TxnCompletionDate: '20230720122623',
+  terminalId: '5949',
+  PayerName: 'rambo',
+  PayerAmount: '10.00',
+  PayerVA: 'ajay008@icici',
+  BankRRN: '320100209850',
+  merchantId: '415065',
+  PayerAccountType: 'SAVINGS',
+  TxnInitDate: '20230720122622',
+  TxnStatus: 'FAILURE',
+  merchantTranId: '2obc03dvna70x2mkrfi94m'
+}
+
+SeqNo: 'ICI9e57089146994f90b3e58f8732286f61',
+  subMerchantId: '415065',
+  PayerMobile: '7977352472',
+  TxnCompletionDate: '20230720122704',
+  terminalId: '5949',
+  PayerName: 'rambo',
+  PayerAmount: '10.00',
+  PayerVA: 'ajay008@icici',
+  BankRRN: '320100209851',
+  merchantId: '415065',
+  PayerAccountType: 'SAVINGS',
+  TxnInitDate: '20230720122658',
+  TxnStatus: 'SUCCESS',
+  merchantTranId: '2obc03dvna70x2mkrfi94m'
+
+
+decryptedResponse86 {
+  response: '0',
+  merchantId: '415065',
+  subMerchantId: '415065',
+  terminalId: '5949',
+  success: 'true',
+  message: 'Transaction Successful',
+  OriginalBankRRN: '320100209851',
+  merchantTranId: '2obc03dvna70x2mkrfi94m',
+  status: 'SUCCESS',
+  Amount: '10.00',
+  payerAccountType: 'SAVINGS',
+  sequenceNum: 'ICI9e57089146994f90b3e58f8732286f61'
+} string
+
+
+
+
+insert into public.emailAlert(28,'sellLimitCount','Dear Ops team,Please find enclosed the list of customer details crossing daily limit for the number of transactions attempted.It’s an auto generated email no need to respond.',true)
+
+  ccAvenueHash = crypto.createHash('sha512',ccAvenue.merchantId).update(`${razorPayOrder.id}${ccAvenue.workingKey}${ccAvenue.merchantId}`).digest('hex')
+
+
+
+

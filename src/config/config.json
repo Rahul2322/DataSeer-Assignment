@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "R@hul2468",
+    "database": "FileManagement",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "FileManagement",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
